@@ -186,4 +186,5 @@ get_header( 'shop' );
 </script>
 
 <?php
+
 get_footer( 'shop' );
