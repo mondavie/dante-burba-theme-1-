@@ -1,0 +1,14 @@
+/* Block editor overrides for Dante Burba theme */
+.editor-styles-wrapper {
+    font-family: 'DM Sans', sans-serif;
+    background: #1a1a1c;
+    color: #f0f0f2;
+}
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2,
+.editor-styles-wrapper h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    color: #ffffff;
+}
+.editor-styles-wrapper a { color: #FF3D00; }
+.editor-styles-wrapper p { line-height: 1.75; }
